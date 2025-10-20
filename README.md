@@ -28,6 +28,7 @@
     <li>Sage Intelligent Reporting – 2023</li>
     <li>Microsoft Digital Literacy – 2023</li>
     <li>Basic Business Process Modelling – 2022</li>
+    <li>Higher Certificate in Economics and Management Sciences</li>
   </ul>
 
   <h2>Download CV</h2>
