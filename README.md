@@ -24,6 +24,7 @@
     <li><strong>FNB App Academy Certificate – IT Varsity (2025)</strong><br>
     Focus: Agile collaboration, app prototyping, front-end design<br>
     📄 <a href="FNB_App_Academy_Certificate.pdf" target="_blank">View Certificate</a></li>
+    <li>Data Analystics - Deloitte -2025</li>
     <li>Sage Intelligent Reporting – 2023</li>
     <li>Microsoft Digital Literacy – 2023</li>
     <li>Basic Business Process Modelling – 2022</li>
