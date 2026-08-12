@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Langutani Mathebula | Graduate Portfolio</title>
+  <title>Hi, I'm Langutani Mathebula</title>
   <meta charset="UTF-8">
   <style>
     body { font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto; }
@@ -17,7 +17,17 @@
   </p>
 
   <h2>About Me</h2>
-  <p>Final-year BCom Business Informatics student passionate about business systems, digital transformation, and data-driven decision-making. Seeking graduate opportunities in business analysis and IT integration.</p>
+  <p>I'm a BCom Business Informatics graduate with an interest in using technology, data, and business processes to solve real-world problems.
+
+I'm currently building my portfolio around Business Analysis, Data Analytics, Systems Analysis, and IT.</p>
+
+<h2>Technical Skills</h2>
+<ul>
+  <li><strong>Data: SQL, MySQL, Excel, Power BI</strong></li>
+  <li><strong>Business Analysis: Requirements Gathering, Process Mapping, Business Process Analysis</strong></li>
+  <li><strong>Systems: Systems Analysis, Database Design, Information Systems</strong></li>
+  <li><strong>Toola: Microsoft Excel, Power BI, Microsoft Office, Git & GitHub</strong></li>
+</ul>
 
   <h2>Certifications</h2>
   <ul>
