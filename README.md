@@ -18,7 +18,9 @@
   </p>
 
   <h2>About Me</h2>
-  <p>Final-year BCom Business Informatics student passionate about business systems, digital transformation, and data-driven decision-making. Seeking graduate opportunities in business analysis and IT integration.</p>
+  <p>I'm a BCom Business Informatics graduate with an interest in using technology, data and business processes to solve real-world problems.
+
+I'm currently building my portfolio around Business Analysis, Data Analytics, Systems Analysis and IT.</p>
 
   <h2>Certifications</h2>
   <ul>
