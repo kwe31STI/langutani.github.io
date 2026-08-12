@@ -13,7 +13,7 @@
   <h1>Langutani Mathebula</h1>
   <p><strong>Email:</strong> mlangutanivictoria@gmail.com<br>
      <strong>Phone:</strong> 072 550 0941<br>
-     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mlangutanivictoria-911927125" target="_blank">Profile</a>
+     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mlangutanivictoria-911927125" target="_blank">Profile</a><br>
      <strong>GitHub:</strong> <a href="https://github.com/kwe31STI" target="_blank">Profile</a>
   </p>
 
