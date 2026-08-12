@@ -24,7 +24,7 @@ I'm currently building my portfolio around Business Analysis, Data Analytics, Sy
 
   <h2>Certifications</h2>
   <ul>
-    <li><strong>FNB App Academy Certificate – IT Varsity (2025)</strong><br>
+    <li>FNB App Academy Certificate – IT Varsity (2025)<br>
     Focus: Agile collaboration, app prototyping, front-end design<br>
     📄 <a href="FNB_App_Academy_Certificate.pdf" target="_blank">View Certificate</a></li>
     <li>Data Analystics - Deloitte -2025</li>
@@ -48,6 +48,16 @@ I'm currently building my portfolio around Business Analysis, Data Analytics, Sy
     <li>JIRA, Confluence, Microsoft Excel & Visio</li>
     <li>Business Documentation: BRDs, Flowcharts, User Stories</li>
     <li>Agile Exposure, Analytical Thinking, Communication</li>
+  </ul>
+
+  <h2>Career Interests</h2>
+  <ul>
+    <li>Business Analysis</li>
+    <li>Data Analysis</li>
+    <li>System Analysis</li>
+    <li>IT/Systems Support</li>    
+    <li>Business Intelligence</li>
+    <li>Project Management</li>
   </ul>
 
   <h2>Contact Me</h2>
